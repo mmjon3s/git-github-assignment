@@ -1,0 +1,2 @@
+Git is a local version control system for tracking code changes.
+GitHub is a cloud platform that hosts Git repositories.
