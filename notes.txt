@@ -1,2 +1,5 @@
 Git is a local version control system for tracking code changes.
 GitHub is a cloud platform that hosts Git repositories.
+
+Branching in Git: A branch lets you develop features without affecting main.
+- You can merge a finished branch back into main.
